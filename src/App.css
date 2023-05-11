@@ -9,4 +9,14 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: 'Plus Jakarta Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+.active div:nth-child(1) {
+  color: #FA9733;
+  opacity: 1;
+}
+.active div:nth-child(2) {
+  background: #FA9733;
+  opacity: 1;
 }

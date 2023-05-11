@@ -22,7 +22,7 @@ const NavBar = () => {
 
     return (  
         <div className="flex items-center justify-between ">
-            <img src="public\images\app-logo.svg" alt="" />
+            <img src="images\app-logo.svg" alt="" />
 
             <div className="flex items-center ">
                 {navLinks.map((item, index) => (

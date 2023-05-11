@@ -8,11 +8,11 @@ export default {
     screens: {
       '2xl': '1536px',
 
-      'xl': {'max': '1300px'},
+      'xl': {'max': '1200px'},
 
-      'lg': {'max': '1100px'},
+      'lg': {'max': '1124px'},
 
-      'md': {'max': '824px'},
+      'md': {'max': '850px'},
 
       'sm': {'max': '600px'},
     },
